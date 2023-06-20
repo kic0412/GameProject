@@ -196,7 +196,7 @@ public class Enemy extends JLabel {
                     y -= speed; // 타겟의 Y 좌표를 따라 위로 이동
                     direction = "up"; // 이동 방향을 위로 설정
                 }
-                movingForward = !movingForward; // 이동 방향이 변경되었으므로 스프라이트 애니메이션 전환을 위한 플래그 업데이트
+                movingForward = !movingForward; // 이동 방향이 변경되었으므로 전환을 위한 플래그 업데이트
             }
         }
         autoJump();
