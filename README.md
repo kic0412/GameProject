@@ -7,19 +7,19 @@
 
  - 만들고 싶었던 모티브
 
-<img src=""  width="600" height="370">
+<img src="https://github.com/kic0412/GameProject/blob/7c92ba95831f6ee982c2466edfeaf7315697818c/motive.png"  width="600" height="370">
 
 
  ## 실제 구현한 모습
  
 - 시작 화면
 <div>
-	<img src=""  width="600" height="370">
+	<img src="https://github.com/kic0412/GameProject/blob/7c92ba95831f6ee982c2466edfeaf7315697818c/start.PNG"  width="600" height="370">
 </div>
 <br>
 - 선택 화면
 <div>
-	<img src=""  width="600" height="370">
+	<img src="https://github.com/kic0412/GameProject/blob/7c92ba95831f6ee982c2466edfeaf7315697818c/select.png"  width="600" height="370">
 </div>
 <br>
 - 실행 화면
@@ -30,7 +30,7 @@
 
 - 공격
 <div>
-	<img src=""  width="600" height="370"> 
+	<img src="https://github.com/kic0412/GameProject/blob/7c92ba95831f6ee982c2466edfeaf7315697818c/attack.PNG"  width="600" height="370"> 
 </div>
 <br>
 
